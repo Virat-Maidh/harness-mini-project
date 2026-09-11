@@ -1,0 +1,11 @@
+{
+  "name": "harness-mini-project",
+  "version": "1.0.0",
+  "description": "Mini Node.js project for Harness CI testing",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "node test.js"
+  }
+}
+
